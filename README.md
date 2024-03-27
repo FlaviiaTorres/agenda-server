@@ -1,4 +1,4 @@
-# Quiz Online
+# Agenda
 
 ![Logo of the project](https://github.com/FlaviiaTorres/agenda-server/blob/master/agendaApi/src/main/resources/imagens/telainicial.png)
 
